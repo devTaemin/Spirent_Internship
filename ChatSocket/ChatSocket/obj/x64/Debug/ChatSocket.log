@@ -1,9 +1,12 @@
-﻿  소스의 유효성을 검사하는 중
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 중간 디렉터리(C:\Users\Taemin\Documents\GitHub\Spirent_Internship\ChatSocket\ChatSocket\obj\x64\Debug\)에 다른 프로젝트(ChatSocket.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  소스의 유효성을 검사하는 중
   소스를 '1.201.141.89'(으)로 원격으로 복사하는 중
   아키텍처의 유효성을 검사하는 중
   아키텍처의 유효성을 검사하는 중
   원격 빌드를 시작하는 중
   소스를 컴파일하는 중:
-  main.cpp
-  개체를 연결하는 중
-  ChatSocket.vcxproj -> C:\Users\Taemin\Documents\GitHub\Spirent_Internship\ChatSocket\ChatSocket\bin\x64\Debug\ChatSocket.out
+  Server.cpp
+C:\Users\Taemin\Documents\GitHub\Spirent_Internship\ChatSocket\ChatSocket\Server.cpp(69,19): error : event.h: 그런 파일이나 디렉터리가 없습니다
+C:\Users\Taemin\Documents\GitHub\Spirent_Internship\ChatSocket\ChatSocket\Server.cpp(69,19): error :  #include <event.h>
+C:\Users\Taemin\Documents\GitHub\Spirent_Internship\ChatSocket\ChatSocket\Server.cpp(69,19): error :                    ^
+C:\Users\Taemin\Documents\GitHub\Spirent_Internship\ChatSocket\ChatSocket\Server.cpp(69,19): error : compilation terminated.
