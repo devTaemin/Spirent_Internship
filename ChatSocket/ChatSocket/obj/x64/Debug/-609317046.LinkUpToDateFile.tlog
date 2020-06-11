@@ -1,0 +1,1 @@
+g++ -o "/home/swc/projects/ChatSocket/bin/x64/Debug/ChatSocket.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/swc/projects/ChatSocket/obj/x64/Debug/main.o
