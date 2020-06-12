@@ -71,7 +71,7 @@
 #include <event2/bufferevent_ssl.h>
 #include <event2/listener.h>
 
-#include <nghttp2/nghttp2.h>
+#include <nghttp2-master/nghttp2.h>
 
 #define OUTPUT_WOULDBLOCK_THRESHOLD (1 << 16)
 
