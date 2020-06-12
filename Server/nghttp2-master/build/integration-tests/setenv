@@ -1,0 +1,12 @@
+#!/bin/sh -e
+
+libdir="/home/swc/projects/Server/nghttp2-master/build/lib"
+if [ -d "$libdir/.libs" ]; then
+    libdir="$libdir/.libs"
+fi
+
+export CGO_CFLAGS="-I/home/swc/projects/Server/nghttp2-master/lib/includes -I/home/swc/projects/Server/nghttp2-master/build/lib/includes"
+export CGO_LDFLAGS="-L$libdir"
+export LD_LIBRARY_PATH="$libdir"
+export GODEBUG=cgocheck=0
+"$@"
