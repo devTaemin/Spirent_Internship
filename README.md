@@ -7,12 +7,12 @@ Ubuntu
 > ChatSocket
 
 >> ChatSocket_Server
->>> CMakeLists.txt
->>> Server_build
+>>> * CMakeLists.txt
+>>> * Server_build
 
 >> ChatSocket_Clinet
->>> CMakeLists.txt
->>> Client_build
+>>> * CMakeLists.txt
+>>> * Client_build
 ------------------------------------------------
 
 <br/>
