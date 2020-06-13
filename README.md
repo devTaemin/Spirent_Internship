@@ -24,7 +24,7 @@ Ubuntu
 
 ----------------------------------------------
 
-<br/>
+
 ### Reference
 --------------------------------------------
 * https://cgold.readthedocs.io/en/latest/overview/cmake-can.html
