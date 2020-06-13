@@ -1,6 +1,5 @@
 # Spirent_Internship
-ChatSocket (Server-Client architecture)
-Ubuntu
+ChatSocket (Server-Client architecture) on Ubuntu
 
 ### Structure (planned)
 -----------------------------------------------
