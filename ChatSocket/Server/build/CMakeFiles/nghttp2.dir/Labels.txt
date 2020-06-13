@@ -1,0 +1,13 @@
+# Target labels
+ nghttp2
+# Source files and their labels
+/home/swc/ChatSocket/Server/build/CMakeFiles/nghttp2
+/home/swc/ChatSocket/Server/build/CMakeFiles/nghttp2.rule
+/home/swc/ChatSocket/Server/build/CMakeFiles/nghttp2-complete.rule
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-install.rule
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-mkdir.rule
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-download.rule
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-update.rule
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-patch.rule
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-configure.rule
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-build.rule

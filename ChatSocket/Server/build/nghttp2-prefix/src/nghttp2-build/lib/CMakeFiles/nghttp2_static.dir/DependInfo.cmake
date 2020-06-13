@@ -1,0 +1,51 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_buf.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_buf.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_callbacks.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_callbacks.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_debug.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_debug.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_frame.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_frame.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_hd.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_hd.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_hd_huffman.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_hd_huffman.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_hd_huffman_data.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_hd_huffman_data.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_helper.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_helper.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_http.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_http.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_map.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_map.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_mem.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_mem.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_npn.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_npn.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_option.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_option.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_outbound_item.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_outbound_item.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_pq.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_pq.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_priority_spec.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_priority_spec.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_queue.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_queue.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_rcbuf.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_rcbuf.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_session.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_session.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_stream.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_stream.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_submit.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_submit.c.o"
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/nghttp2_version.c" "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib/CMakeFiles/nghttp2_static.dir/nghttp2_version.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_C
+  "BUILDING_NGHTTP2"
+  "HAVE_CONFIG_H"
+  "NGHTTP2_STATICLIB"
+  )
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "."
+  "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/lib/includes"
+  "lib/includes"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

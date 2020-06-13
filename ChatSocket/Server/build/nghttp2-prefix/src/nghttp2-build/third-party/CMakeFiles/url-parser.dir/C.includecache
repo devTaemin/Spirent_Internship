@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/third-party/url-parser/url_parser.c
+url_parser.h
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/third-party/url-parser/url_parser.h
+assert.h
+-
+stddef.h
+-
+ctype.h
+-
+string.h
+-
+limits.h
+-
+
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/third-party/url-parser/url_parser.h
+stddef.h
+-
+BaseTsd.h
+-
+stdint.h
+-
+

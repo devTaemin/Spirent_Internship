@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-GUnix Makefiles;/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2'

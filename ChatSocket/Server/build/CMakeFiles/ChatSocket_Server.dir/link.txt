@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ChatSocket_Server.dir/Server.cpp.o  -o ChatSocket_Server nghttp2-prefix/src/nghttp2-build/lib_nghttp2.a 

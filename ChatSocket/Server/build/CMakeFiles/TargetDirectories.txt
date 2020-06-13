@@ -1,0 +1,4 @@
+/home/swc/ChatSocket/Server/build/CMakeFiles/rebuild_cache.dir
+/home/swc/ChatSocket/Server/build/CMakeFiles/nghttp2.dir
+/home/swc/ChatSocket/Server/build/CMakeFiles/edit_cache.dir
+/home/swc/ChatSocket/Server/build/CMakeFiles/ChatSocket_Server.dir

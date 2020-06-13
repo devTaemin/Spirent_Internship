@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/src/timegm.c
+timegm.h
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/src/timegm.h
+inttypes.h
+-
+
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/src/timegm.h
+config.h
+-
+time.h
+-
+
+config.h
+

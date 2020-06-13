@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g    CMakeFiles/deflatehd.dir/deflatehd.cc.o CMakeFiles/deflatehd.dir/comp_helper.c.o  -o deflatehd -rdynamic ../lib/libnghttp2.so.14.20.0 -ljemalloc -lxml2 -lev -lssl -lcrypto -lcares -ljansson -lz -lpthread -Wl,-rpath,/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-build/lib: 

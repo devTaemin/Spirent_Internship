@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+8d73f9e675101bfe6515dcb448261e27 CMakeFiles/nghttp2
+9e907f295fae1ac033cb8be00a629070 CMakeFiles/nghttp2-complete
+b39dd05fb5e47a3a3040188c18fd21f5 nghttp2-prefix/src/nghttp2-stamp/nghttp2-build
+a7be230a0d13675d255c13a276debf5e nghttp2-prefix/src/nghttp2-stamp/nghttp2-configure
+7c91183d77e81062a954836e74880f1c nghttp2-prefix/src/nghttp2-stamp/nghttp2-download
+0eee5cec527e53388a0803414b8463a4 nghttp2-prefix/src/nghttp2-stamp/nghttp2-install
+7c661eb5dafa54311ad92223641ced3a nghttp2-prefix/src/nghttp2-stamp/nghttp2-mkdir
+52dcc904ee74f861c4ce6df2e8d79ad2 nghttp2-prefix/src/nghttp2-stamp/nghttp2-patch
+9741fcd638278b11ae66d4bdd6dcca44 nghttp2-prefix/src/nghttp2-stamp/nghttp2-update

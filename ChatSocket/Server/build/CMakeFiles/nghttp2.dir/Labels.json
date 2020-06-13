@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/swc/ChatSocket/Server/build/CMakeFiles/nghttp2"
+		},
+		{
+			"file" : "/home/swc/ChatSocket/Server/build/CMakeFiles/nghttp2.rule"
+		},
+		{
+			"file" : "/home/swc/ChatSocket/Server/build/CMakeFiles/nghttp2-complete.rule"
+		},
+		{
+			"file" : "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-install.rule"
+		},
+		{
+			"file" : "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-mkdir.rule"
+		},
+		{
+			"file" : "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-download.rule"
+		},
+		{
+			"file" : "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-update.rule"
+		},
+		{
+			"file" : "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-patch.rule"
+		},
+		{
+			"file" : "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-configure.rule"
+		},
+		{
+			"file" : "/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2-stamp/nghttp2-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nghttp2"
+		],
+		"name" : "nghttp2"
+	}
+}

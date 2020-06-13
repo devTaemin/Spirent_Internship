@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/third-party/llhttp/include/llhttp.h
+stdint.h
+-
+stddef.h
+-
+
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/third-party/llhttp/src/api.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+llhttp.h
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/third-party/llhttp/src/llhttp.h
+
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/third-party/llhttp/src/http.c
+stdio.h
+-
+llhttp.h
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/third-party/llhttp/src/llhttp.h
+
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/third-party/llhttp/src/llhttp.c
+stdlib.h
+-
+stdint.h
+-
+string.h
+-
+nmmintrin.h
+-
+x86intrin.h
+-
+llhttp.h
+/home/swc/ChatSocket/Server/build/nghttp2-prefix/src/nghttp2/third-party/llhttp/src/llhttp.h
+

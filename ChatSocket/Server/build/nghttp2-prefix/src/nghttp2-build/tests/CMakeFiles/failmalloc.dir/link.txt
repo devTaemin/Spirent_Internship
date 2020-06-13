@@ -1,0 +1,1 @@
+/usr/bin/cc  -O2 -g    CMakeFiles/failmalloc.dir/failmalloc.c.o CMakeFiles/failmalloc.dir/failmalloc_test.c.o CMakeFiles/failmalloc.dir/malloc_wrapper.c.o CMakeFiles/failmalloc.dir/nghttp2_test_helper.c.o  -o failmalloc -rdynamic ../lib/libnghttp2.a -lcunit 
