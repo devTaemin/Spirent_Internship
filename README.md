@@ -5,11 +5,11 @@ Ubuntu
 ### Structure (planned)
 -----------------------------------------------
 > ChatSocket
-<br/>
+
 >> ChatSocket_Server
 >>> CMakeLists.txt
 >>> Server_build
-<br/>
+
 >> ChatSocket_Clinet
 >>> CMakeLists.txt
 >>> Client_build
